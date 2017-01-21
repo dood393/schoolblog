@@ -14,7 +14,7 @@ Results:
     Average: 1.6 Incorrect.
     
     
-    <br/>
+    <br>
   Machine 2 (weight):
     1:
     2:
