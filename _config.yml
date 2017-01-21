@@ -16,3 +16,5 @@ github_username:  dood393
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-time-machine
