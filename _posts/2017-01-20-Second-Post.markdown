@@ -15,6 +15,7 @@ Results:
     
     
     <br>
+    </br>
   Machine 2 (weight):
     1:
     2:
