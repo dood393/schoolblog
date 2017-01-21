@@ -6,8 +6,8 @@ categories: SCIENCE
 ---
 Results:
   Machine 1 (size):
-    1: 1 incorrect.
-    2:
+    1: 1 Incorrect
+    2: 4 Incorrect
     3:
     4:
     5:
