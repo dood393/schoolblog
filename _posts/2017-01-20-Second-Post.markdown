@@ -11,7 +11,10 @@ Results:
     3: 1 Incorrect 
     4: 1 Incorrect 
     5: 1 Incorrect 
-    Average: 1.6 Incorrect
+    Average: 1.6 Incorrect.
+    
+    
+    <br/>
   Machine 2 (weight):
     1:
     2:
