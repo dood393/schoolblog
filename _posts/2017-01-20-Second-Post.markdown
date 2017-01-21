@@ -1,8 +1,20 @@
 ---
 layout: post
-title:  "Hi"
+title:  "Science Fair"
 date:   eventually -0500
-categories: Me Being Me
+categories: SCIENCE
 ---
-Hi
-I a
+Results:
+  Machine 1 (size):
+    1:
+    2:
+    3:
+    4:
+    5:
+  Machine 2 (weight):
+    1:
+    2:
+    3:
+    4:
+    5:
+  
