@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Science Fair"
-date:   eventually -0500
+date:   2017-01-14 06:03:29 -0800
 categories: SCIENCE
 ---
 Results:
