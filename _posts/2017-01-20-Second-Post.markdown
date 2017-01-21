@@ -1,10 +1,12 @@
----
+>---
 layout: post
 title:  "Science Fair"
 date:   2017-01-21 06:03:29 -0800
 categories: SCIENCE
 ---
 Results:
+<br>
+</br>
   Machine 1 (size):
     1: 1 Incorrect 
     2: 4 Incorrect 
