@@ -1,6 +1,0 @@
----
-layout: page
-title: TEsT PaGE
-permalink: /noes/
----
-olololllollololodvfjnfgvnenjgnrnvjigbunenfrunqgjtrnbjiuhfdnfvshdfgjsjfcuhhjgndisjfuvhhuernwhduyhgewnduyhwgjreyfhgnwahryhgtrvusfhgjnhbfhvdfnsdjahdhdjjdjfdfkjfrnngwjr
